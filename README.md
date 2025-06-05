@@ -9,8 +9,14 @@ Design an interactive dashboard for business stakeholders.
 
 
 
+
+
 ## Dashboard Interaction  
 <a href = "https://public.tableau.com/views/AmazonSalesDashboard_17491314854830/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">Dashboard Link</a>
+
+## Dashboard Image
+![Screenshot (252)](https://github.com/user-attachments/assets/f050e133-4ba5-4637-b895-0d236608f3bd)
+
 
 
 
