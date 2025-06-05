@@ -9,6 +9,6 @@ Design an interactive dashboard for business stakeholders.
 
 
 
-## Dashboard Interaction  <a href = "">View Dashboard</a>
-
+## Dashboard Interaction  <a href = "">Dashboard Link</a>
+## Dasboard Image <a href = "https://github.com/gaiyu29/Task3/blob/main/Screenshot%20(252).png">Dashboard SS</a>
 
